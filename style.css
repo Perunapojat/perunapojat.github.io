@@ -1,0 +1,346 @@
+div {
+  font-family: 'Special Elite', cursive;
+}
+
+p {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+svg {
+  width: 100%;
+  height: auto;
+  position: absolute;
+}
+
+img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+
+  ul {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    z-index: 3;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Righteous', cursive;
+  }
+  li a:hover {
+    background-color: dodgerblue;
+  }
+
+  .btn {
+    color: white;
+    font-weight: bolder;
+    border: none;
+    outline: none;
+    padding: 10px 16px;
+    background-color: #333;
+    cursor: pointer;
+    font-size: 18px;
+  }
+
+.active, .btn:hover {
+  background-color: dodgerblue;
+}
+
+.left {
+  float: left;
+  width: 49%;
+  margin-right: 1%;
+}
+
+.right {
+  float: right;
+  width: 49%;
+  margin-left: 1%;
+}
+
+ul h2 {
+  padding: 2%;
+  display: block;
+  text-align: center;
+}
+
+#border {
+  display: none;
+}
+
+#angmark {
+  display: none;
+}
+
+#gnommoria {
+  display: none;
+}
+
+#empire {
+  display: none;
+}
+
+#carreg {
+  display: none;
+}
+
+#chevalria {
+  display: none;
+}
+
+#elina {
+  display: none;
+}
+
+#china {
+  display: none;
+}
+
+#dragoi {
+  display: none;
+}
+
+#enchanted {
+  display: none;
+}
+
+#gonria {
+  display: none;
+}
+
+#gormark {
+  display: none;
+}
+
+#iarn {
+  display: none;
+}
+
+#halflings {
+  display: none;
+}
+
+#kayl {
+  display: none;
+}
+
+#moorthir {
+  display: none;
+}
+
+#langbet {
+  display: none;
+}
+
+#mjwgypt {
+  display: none;
+}
+
+#norda {
+  display: none;
+}
+
+#nomads {
+  display: none;
+}
+
+#osthalr {
+  display: none;
+}
+
+#orlow {
+  display: none;
+}
+
+#putazo {
+  display: none;
+}
+
+#rusrir {
+  display: none;
+}
+
+#rodmark {
+  display: none;
+}
+
+#sralia {
+  display: none;
+}
+
+#vg {
+  display: none;
+}
+
+#tlacocol {
+  display: none;
+}
+
+#vesthalr {
+  display: none;
+}
+
+#yh {
+  display: none;
+}
+
+#wizra {
+  display: none;
+}
+
+#jamal {
+  display: none;
+}
+
+#hallowed {
+  display: none;
+}
+
+.border {
+  fill: black;
+}
+
+.angmark {
+  fill: black;
+}
+
+.gnommoria {
+  fill: black;
+}
+
+.empire {
+  fill: black;
+}
+
+.carreg {
+  fill: black;
+}
+
+.chevalria {
+  fill: black;
+}
+
+.elina {
+  fill: black;
+}
+
+.china {
+  fill: black;
+}
+
+.dragoi {
+  fill: black;
+}
+
+.enchanted {
+  fill: black;
+}
+
+.gonria {
+  fill: black;
+}
+
+.gormark {
+  fill: black;
+}
+
+.iarn {
+  fill: black;
+}
+
+.halflings {
+  fill: black;
+}
+
+.kayl {
+  fill: black;
+}
+
+.moorthir {
+  fill: black;
+}
+
+.langbet {
+  fill: black;
+}
+
+.mjwgypt {
+  fill: black;
+}
+
+.norda {
+  fill: black;
+}
+
+.nomads {
+  fill: black;
+}
+
+.osthalr {
+  fill: black;
+}
+
+.ortlow {
+  fill: black;
+}
+
+.putazo {
+  fill: black;
+}
+
+.rusrir {
+  fill: black;
+}
+
+.rodmark {
+  fill: black;
+}
+
+.sralia {
+  fill: black;
+}
+
+.vg {
+  fill: black;
+}
+
+.tlacocol {
+  fill: black;
+}
+
+.vesthalr {
+  fill: black;
+}
+
+.yh {
+  fill: black;
+}
+
+.wizra {
+  fill: black;
+}
+
+.jamal {
+  fill: black;
+}
+
+.hallowed {
+  fill: black;
+}
